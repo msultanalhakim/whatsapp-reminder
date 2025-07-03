@@ -1,0 +1,7 @@
+Assalamualaikum {Alias} *{Name},*
+Perkenalkan saya dengan Sultan dari BSI Bekasi A Yani. Mau menginformasikan bahwa {Alias} masih memiliki tunggakan pembayaran angsuran sebesar *Rp{Nominal}*
+
+Mohon untuk segera melakukan pembayaran ke rekening {Alias} No *{Saving}*
+
+Dimohon untuk melakukan konfirmasi kapan akan melakukan pembayaran angsuran dan melampirkan bukti pembayaran (transfer) apabila sudah melakukan pembayaran. 
+Terimakasih.
